@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "resolfast", "resolfast\resolfast.pyproj", "{842362FE-C991-40E4-BBD6-FDDA97E1F2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842362FE-C991-40E4-BBD6-FDDA97E1F2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842362FE-C991-40E4-BBD6-FDDA97E1F2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702B44C3-01C9-42EF-866F-3EFBDDFEA5EC}
+	EndGlobalSection
+EndGlobal
